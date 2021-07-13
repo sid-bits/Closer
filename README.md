@@ -2,6 +2,14 @@
 
 > A chat and meet application that brings people closer, and it's goal is to provide all the features as seamlessly as possible.
 
+## Video Link:
+
+https://youtu.be/ohlwkt9XbQc
+
+## Application Link:
+
+https://drive.google.com/drive/folders/1lpQ7koc6w4daqb5AqbV5Id8d3wTJxD_S?usp=sharing
+
 Users can create as many rooms as they want, they can also join all the rooms they have been invited to join. There's no limitation on number of users in a room. Users sharing a common room can have high quality video-meetings. There are more features such as user-authentication, in-meeting chat, integrated share functionality and more.
 
 Platform: Android (Smartphones, Tablets, TVs...)
@@ -15,6 +23,7 @@ It's made very intuitive, you'll know exactly what to do.
 ## Pitch / Demo
 
 Please visit this link
+https://youtu.be/ohlwkt9XbQc
 
 ## Tools used
 
