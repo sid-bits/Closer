@@ -10,6 +10,10 @@ https://youtu.be/ohlwkt9XbQc
 
 https://drive.google.com/drive/folders/1lpQ7koc6w4daqb5AqbV5Id8d3wTJxD_S?usp=sharing
 
+## Wiki Link:
+
+https://sidk.notion.site/Closer-Wiki-e5d1f415286c451b866d51c9e353903e
+
 Users can create as many rooms as they want, they can also join all the rooms they have been invited to join. There's no limitation on number of users in a room. Users sharing a common room can have high quality video-meetings. There are more features such as user-authentication, in-meeting chat, integrated share functionality and more.
 
 Platform: Android (Smartphones, Tablets, TVs...)
